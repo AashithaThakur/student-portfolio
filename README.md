@@ -1,4 +1,3 @@
-
 # Welcome to My Portfolio
 
 This portfolio showcases my learning journey and projects.
@@ -11,3 +10,10 @@ I am a B.Tech student interested in technology and programming.
 
 This is my personal project portfolio.
 It contains my projects, skills, and learning progress.
+
+## Skills
+
+- Python
+- Java
+- SQL
+- Git & GitHub
